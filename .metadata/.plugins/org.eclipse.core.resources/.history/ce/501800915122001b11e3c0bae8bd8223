@@ -1,0 +1,7 @@
+package com.dp.controller;
+
+import org.springframework.web.b
+@RestController
+public class RestController {
+
+}

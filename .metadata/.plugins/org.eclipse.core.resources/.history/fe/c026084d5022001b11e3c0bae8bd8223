@@ -1,0 +1,5 @@
+package com.dp.model;
+
+public class User {
+
+}

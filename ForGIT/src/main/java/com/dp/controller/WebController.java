@@ -10,4 +10,10 @@ public class WebController {
 	public String satHello() {
 		return "hello world"; 
 	}
+	
+	@GetMapping("/hi")
+	public String satHello() {
+		return "welcome to git hub"; 
+	}
+	
 }

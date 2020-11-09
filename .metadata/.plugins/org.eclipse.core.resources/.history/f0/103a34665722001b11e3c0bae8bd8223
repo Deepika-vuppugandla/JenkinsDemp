@@ -11,6 +11,4 @@ public class ForGitApplication {
 		SpringApplication.run(ForGitApplication.class, args);
 	}
 
-	
-	
 }

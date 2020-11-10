@@ -12,7 +12,7 @@ public class WebController {
 	}
 	
 	@GetMapping("/hi")
-	public String satHello() {
+	public String sayHello1() {
 		return "welcome to git hub"; 
 	}
 	
